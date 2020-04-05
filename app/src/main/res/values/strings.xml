@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">mastest</string>
+    <string name="_123">123</string>
+    <string name="helloWorld">Hello World!</string>
 </resources>
