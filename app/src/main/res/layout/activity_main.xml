@@ -32,7 +32,7 @@
         android:layout_marginTop="16dp"
         >
         <TextView
-            android:id="@+id/show_github_search_result_json"
+            android:id="@+id/json"
             android:textSize="18sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>

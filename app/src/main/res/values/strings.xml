@@ -4,5 +4,6 @@
     <string name="search">search</string>
     <string name="query_hint">enter your query</string>
     <string name="url_show_up">your URL will show up here</string>
+    <string name="URL">https://api.mapbox.com/geocoding/v5/mapbox.places/%7Bquery%7D.json?access_token={your_token}</string>
 <!--    <string-array name="hints"></string-array>-->
 </resources>
