@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">mastest</string>
     <string name="_123">123</string>
-    <string name="helloWorld">Hello World!</string>
+    <string name="search">search</string>
+    <string name="query_hint">enter your query</string>
+    <string name="url_show_up">your URL will show up here</string>
+<!--    <string-array name="hints"></string-array>-->
 </resources>
